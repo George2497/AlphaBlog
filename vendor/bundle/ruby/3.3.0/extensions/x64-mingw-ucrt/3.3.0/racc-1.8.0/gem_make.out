@@ -1,0 +1,19 @@
+current directory: C:/Users/georg_0mijctp/OneDrive/Desktop/AlphaBlog/vendor/bundle/ruby/3.3.0/gems/racc-1.8.0/ext/racc/cparse
+C:/Ruby33-x64/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: C:/Users/georg_0mijctp/OneDrive/Desktop/AlphaBlog/vendor/bundle/ruby/3.3.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240610-11168-jbs5da sitelibdir\=./.gem.20240610-11168-jbs5da clean
+
+current directory: C:/Users/georg_0mijctp/OneDrive/Desktop/AlphaBlog/vendor/bundle/ruby/3.3.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240610-11168-jbs5da sitelibdir\=./.gem.20240610-11168-jbs5da
+generating cparse-x64-mingw-ucrt.def
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: C:/Users/georg_0mijctp/OneDrive/Desktop/AlphaBlog/vendor/bundle/ruby/3.3.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240610-11168-jbs5da sitelibdir\=./.gem.20240610-11168-jbs5da install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20240610-11168-jbs5da/racc
+
+current directory: C:/Users/georg_0mijctp/OneDrive/Desktop/AlphaBlog/vendor/bundle/ruby/3.3.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240610-11168-jbs5da sitelibdir\=./.gem.20240610-11168-jbs5da clean
