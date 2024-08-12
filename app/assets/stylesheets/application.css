@@ -36,6 +36,12 @@
   margin-top: 25px;
 }
 
+#messages-container,
+.alert {
+  padding: 0;
+  margin: 0;
+}
+
 .jumbotron {
   background-image: url(jumbo-copy.jpg);
   background-position: center center;
