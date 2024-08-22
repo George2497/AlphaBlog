@@ -39,7 +39,10 @@
 #messages-container,
 .alert {
   padding: 0;
-  margin: 0;
+  margin: 0 auto;
+  max-width: 85%;
+  left: 90%;
+  transform: translateX(-50%);
 }
 
 .jumbotron {
